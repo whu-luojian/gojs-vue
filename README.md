@@ -1,4 +1,5 @@
 # gojs-vue
+![GitHub package.json version](https://img.shields.io/github/package-json/v/whu-luojian/gojs-vue)
 
 ### Based on [GoJS 2.1](https://gojs.net)
 
@@ -7,7 +8,7 @@ the implementation of this project is inspired by [gojs-react](https://github.co
 
 ## Installation
 
-gojs-vue can be installed via NPM. This package has peer dependencies on GoJS and vue-property-decorator, so make sure those are also installed or included on your application.
+gojs-vue can be installed via NPM. This package has peer dependencies on `gojs` and `vue-property-decorator`, so make sure those are also installed or included on your application.
 
 ### NPM
 
