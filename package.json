@@ -12,6 +12,7 @@
     "bundle": "rollup --config",
     "entry": "babel-node ./build/makeEntry.js",
     "changelog": "conventional-changelog -p custom-config-2 -i CHANGELOG.md -s -r 0",
+    "release": "sh ./build/release.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
