@@ -6,7 +6,7 @@ echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
   # 指定上线版本
-  echo "inpput version: "
+  echo "input version: "
   read VERSION
 
   read -p "current version: $VERSION - are you sure? (y/n)" -n 1 -r
