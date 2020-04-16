@@ -1,6 +1,6 @@
 {
   "name": "gojs-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue component to manage GoJS Diagrams",
   "main": "lib/index.js",
   "module": "lib/esm/gojs-vue.js",
